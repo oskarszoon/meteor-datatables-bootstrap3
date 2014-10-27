@@ -14,7 +14,6 @@ div.dataTables_filter label {
 }
 
 div.dataTables_filter input {
-    width: 16em;
     margin-left: 0.5em;
 }
 
@@ -295,3 +294,4 @@ div.DTFC_LeftFootWrapper table {
 div.FixedHeader_Cloned table {
     margin: 0 !important
 }
+
